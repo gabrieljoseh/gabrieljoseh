@@ -1,4 +1,9 @@
-## **Olá eu sou o Gabriel Rodrigues!!**
+## **Hi, I'm Gabriel Rodrigues!!**
+
+##
+
+- Currently I work in 4Intelligence an Support in Engineering & Software Development Intern
+- I´m learning Phyton, Javascript, HTML and CSS 
 
 <div align="center">
   <a href="https://github.com/gabrieljoseh">
